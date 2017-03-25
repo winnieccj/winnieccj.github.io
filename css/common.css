@@ -1,0 +1,22 @@
+.wrap{
+	width:1205px;
+	min-width:1205px;
+	margin: 0 auto;
+}
+
+.clearfix:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.clearfix{
+	*zoom:1;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
